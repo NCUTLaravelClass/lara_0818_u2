@@ -3,7 +3,8 @@
         <title>@yield('title')|MyBlog</title>
     </head>
     <body>
-        <divclass="container">
+        @include('layouts.partials.navigation')
+        <div class="container">
             @yield('content')
         </div>
     </body>
