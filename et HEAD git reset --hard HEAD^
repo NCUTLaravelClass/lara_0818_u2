@@ -1,0 +1,29 @@
+[33mcommit 36dd2b51f2c283c85f89680fe6e58503b12c9943[m
+Author: img21326 <img21326@gmail.com>
+Date:   Mon Oct 23 12:49:41 2017 +0800
+
+    (2) app/Http/routes.php載入的頁面路徑
+
+[33mcommit 3ff0e6dfc3b33f10ee2a11b4b6ce51709fe81b75[m
+Author: img21326 <img21326@gmail.com>
+Date:   Mon Oct 23 12:49:09 2017 +0800
+
+    修改 app/Http/routes.php載入的頁面路徑
+
+[33mcommit e458070b37514f6f44e0a97f61a5b33a2dd4fdee[m
+Author: img21326 <img21326@gmail.com>
+Date:   Mon Oct 23 12:48:29 2017 +0800
+
+    設定從 app/Http/routes.php回傳這個頁面
+
+[33mcommit eabc887a6306aed5a969e95fec60059fd41a160e[m
+Author: img21326 <img21326@gmail.com>
+Date:   Mon Oct 23 12:47:31 2017 +0800
+
+    在 resources/views底下新增 home.php，並建立一個基本的 HTML 5 文件結構
+
+[33mcommit 7531cf4593b0cd67376345824945e4bdf7095c35[m
+Author: img21326 <img21326@gmail.com>
+Date:   Mon Oct 23 12:41:17 2017 +0800
+
+    'init'
